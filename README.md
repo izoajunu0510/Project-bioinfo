@@ -5,5 +5,9 @@ This program _enables_ searching an appropriate *restrction enzyme* for cloning 
 * `ClaI`
 * EcoRI
 * AvaI
+* BamHI
+* XhoI
+* DraI
+* HindIII
 
 izoajunu0510 <izoajunu1@naver.com>
